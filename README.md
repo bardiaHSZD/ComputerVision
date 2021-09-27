@@ -1,2 +1,2 @@
-# GameEngineDev
-This repository demonstrates foundations of game engine development.
+# Visual Effects
+This repository demonstrates AI applications for Visual Effects and Games.
