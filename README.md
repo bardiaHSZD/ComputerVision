@@ -1,2 +1,2 @@
-# Visual Effects
-This repository demonstrates AI applications for Visual Effects and Games.
+# Computer Vision and VFX
+This repository demonstrates AI Computer Vision applications in Visual Effects and Games.
